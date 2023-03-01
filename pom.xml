@@ -41,5 +41,8 @@
 
 	<modules>
 		<module>personagem</module>
+		<module>batalha</module>
+		<module>mapa</module>
+		<module>historia</module>
 	</modules>
 </project>
