@@ -44,5 +44,7 @@
 		<module>batalha</module>
 		<module>mapa</module>
 		<module>historia</module>
+		<module>ficha-rpg-api-gateway</module>
+		<module>ficha-rpg-discovery</module>
 	</modules>
 </project>
